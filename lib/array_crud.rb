@@ -8,9 +8,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-   array = ["lettuce", "spinach", "cheese"]
-   element = "corn"
-   array << "corn"
+   numbers =  [1, 2, 3, 4]
+   numbers << 5
+  
   
 end
 
