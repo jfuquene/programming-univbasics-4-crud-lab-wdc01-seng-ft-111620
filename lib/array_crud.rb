@@ -8,9 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-   salad = ["lettuce", "spinich", "corn"]
-   salad.push("cheese")
-  
+   first_salad = ["lettuce", "spinich", "corn"]
+   first_salad.push("cheese")
   
 end
 
