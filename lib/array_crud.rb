@@ -10,7 +10,7 @@ end
 def add_element_to_end_of_array(array, element)
    array = ["lettuce", "spinach", "cheese"]
    element = "corn"
-   array.push("corn")
+   array << "corn"
   
 end
 
