@@ -8,14 +8,14 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-   salad = ["lettuce", "spinach", "cheese"]
-  salad.push("corn")
+   array = ["lettuce", "spinach", "cheese"]
+  array.push("corn")
   
 end
 
 def add_element_to_start_of_array(array, element)
-  salad = ["lettuce", "spinach", "cheese"]
-  salad.unshift("corn")
+  
+  
 end
 
 def remove_element_from_end_of_array(array)
